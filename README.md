@@ -5,10 +5,8 @@
 
 🌟 Skills: Python, Data Analysis, Machine Learning, Data Visualization
 🎓 Education: Master of Data Science and Artificial Intelligence 
-💼 Work Experience: [Brief summary of your work experience]
-
-🔍 Currently working on data-driven projects that impact the world. Check out my recent project [Project Name]!
+💼 Work Experience: Starting out!
 
 🚀 Open for collaboration and new data science opportunities.
 
-🌐 [Professional Website] | 📫 https://www.linkedin.com/in/melek-mizher-2258a9225/
+🌐 Work in progress: melekm.github.io | 📫 https://www.linkedin.com/in/melek-mizher-2258a9225/
