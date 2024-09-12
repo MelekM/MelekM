@@ -9,4 +9,4 @@
 
 🚀 Open for collaboration and new data science opportunities.
 
-🌐 Work in progress: melekm.github.io | 📫 https://www.linkedin.com/in/melek-mizher-2258a9225/
+🌐 Work in progress: https://melekm.github.io | 📫 https://www.linkedin.com/in/melek-mizher-2258a9225/
