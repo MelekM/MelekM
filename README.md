@@ -6,6 +6,7 @@
 🌟 Skills: Python, Data Analysis, Machine Learning, Data Visualization
 
 🎓 Education: Master of Data Science and Artificial Intelligence 
+
 💼 Work Experience: Starting out!
 
 🚀 Open for collaboration and new data science opportunities.
