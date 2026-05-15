@@ -1,12 +1,12 @@
-👋 Hello, I'm Melek Mizher
+Hello, I'm Melek Mizher
 
-📊 Data Scientist | 🤖 Machine Learning Enthusiast
-📍 Seattle, WA
+📊 Data Scientist | Machine Learning Enthusiast
+📍 Orlando, FL
 
-🌟 Skills: Python, Data Analysis, Machine Learning, Data Visualization
+Skills: Python, Data Analysis, Machine Learning, Data Visualization
 
-🎓 Education: Master of Data Science and Artificial Intelligence 
+Education: Master of Data Science and Artificial Intelligence 
 
-🚀 Open for collaboration and new data science opportunities.
-
-🌐 Work in progress: https://melekm.github.io | 📫 https://www.linkedin.com/in/melek-mizher-2258a9225/
+Portfolio: https://melekm.github.io
+LinkedIn: https://www.linkedin.com/in/melek-mizher-2258a9225/
+Email: melekmizher@me.com
